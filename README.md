@@ -9,6 +9,8 @@ Build a basic authenticated todo app with Svelte & Firebase (RxFire):
 
 ```
 git clone
+cd 182-svelte-firebase
+npm install
 npm run dev
 ```
 
